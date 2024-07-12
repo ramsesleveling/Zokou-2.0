@@ -11,7 +11,7 @@ module.exports = { session: process.env.SESSION_ID || 'Zokou-MD-WHATSAPP-BOT;;;=
      ETAT:process.env.ETAT,
     PREFIXE: process.env.PREFIXE,#
     NOM_OWNER: process.env.NOM_OWNER || "SUNG JINWOO ",
-    NUMERO_OWNER : PROCESS.ENV.NUMERO,237656276980            
+    NUMERO_OWNER : PROCESS.ENV.NUMERO,         
     LECTURE_AUTO_STATUS: process.env.LECTURE_AUTO_STATUS || "non",
     TELECHARGER_AUTO_STATUS: process.env.TELECHARGER_AUTO_STATUS || 'non',
     MODE: process.env.MODE_PUBLIC,
